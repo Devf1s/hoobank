@@ -6,7 +6,7 @@ HooBank
 
 -----------
 - **Used**: 
-	- [React](https://reactjs.org/) - JavaScript library to creating landing page with reusable components.
-	- [Vite](https://vitejs.dev/) - Using Vite.js development is going much faster.
+	- [React](https://reactjs.org/) - JavaScript library to creating landing page with reusable components
+	- [Vite](https://vitejs.dev/) - Using Vite.js development is going much faster
 	- [Tailwind](https://tailwindcss.com/) - CSS framework for styling
 -----------
